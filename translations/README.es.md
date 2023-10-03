@@ -1,10 +1,10 @@
 
 <p align="right">
     <a href="https://github.com/andresWeitzel/RPC_MICROSERVICES_PROJECTS/blob/master/translations/README.es.md" target="_blank">
-      <img src="https://github.com/andresWeitzel/RPC_MICROSERVICES_PROJECTS/blob/master/doc/assets/img/arg-flag.jpg" width="5%" height="5%" />
+      <img src="https://github.com/andresWeitzel/RPC_MICROSERVICES_PROJECTS/blob/master/doc/assets/img/arg-flag.jpg" width="10%" height="10%" />
   </a> 
    <a href="https://github.com/andresWeitzel/RPC_MICROSERVICES_PROJECTS/blob/master/README.md" target="_blank">
-      <img src="https://github.com/andresWeitzel/RPC_MICROSERVICES_PROJECTS/blob/master/doc/assets/img/eeuu-flag.jpg" width="5%" height="5%" />
+      <img src="https://github.com/andresWeitzel/RPC_MICROSERVICES_PROJECTS/blob/master/doc/assets/img/eeuu-flag.jpg" width="10%" height="10%" />
   </a> 
 </p>
 
