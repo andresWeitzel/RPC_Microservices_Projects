@@ -39,7 +39,7 @@
   </a>
  </div>
 
-   ### Technology Stack Used
+   ### Stack Implementado
   
  </p>
 
