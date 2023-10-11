@@ -27,19 +27,19 @@
  <img src="https://github.com/andresWeitzel/gRPC_IP_Geolocation_API_Integration_Nodejs/blob/master/doc/assets/gRPC.png" >
   </a>
 
-  ### [[Repositorio]](https://github.com/andresWeitzel/gRPC_IP_Geolocation_API_Integration_Nodejs) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurC0zJPiNF-rCbAFd2BGUBOe)
+  ### [[Repositorio]](https://github.com/andresWeitzel/gRPC_IP_Geolocation_API_Integration_Nodejs) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurD2RjD9OiBfyKpsgwEzZzBv)
 
   
  <div style="display: inline-block;"> 
   <a href="https://github.com/andresWeitzel/gRPC_IP_Geolocation_API_Integration_Nodejs">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
-    <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurC0zJPiNF-rCbAFd2BGUBOe">
+    <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurD2RjD9OiBfyKpsgwEzZzBv">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
   </a>
  </div>
 
-   ### Stack Empleado
+   ### Technology Stack Used
   
  </p>
 
