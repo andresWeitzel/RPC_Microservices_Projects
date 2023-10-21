@@ -2,6 +2,8 @@
 <img src="https://github.com/andresWeitzel/RPC_Microservices_Projects/blob/master/doc/assets/img/RPC.jpg" >
 </div>
 
+<br>
+
 <div align="right">
     <a href="https://github.com/andresWeitzel/RPC_MICROSERVICES_PROJECTS/blob/master/translations/README.es.md" target="_blank">
       <img src="doc/assets/img/arg-flag.jpg" width="10%" height="10%" />
@@ -14,7 +16,7 @@
  
 <div align="center">
   
-# RPC & Microservices
+## RPC & Microservices
 
 </div>  
 
