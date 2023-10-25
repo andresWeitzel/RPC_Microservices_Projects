@@ -25,16 +25,17 @@
 
 Central repository for RPC and Microservices type backend projects. The following technologies are implemented..
 
- <br>
+<br>
 
-| Type | Stack |
-| ------------- | ------------- |
-| Javascript | Express, Nodejs, dotenv, cors, express-validator, nodemon, others  |
-
-
- <br>
+  * Lenguajes : Javascript, otros
+  * Frameworks : Express, otros
+  * Tecnologías : Nodejs, otras
+  * Bibliotecas : dotenv, cors, swagger, swagger-ui, nodemon, otras.
+  * Herramientas : vsc, git, otras
+   
+  <br>
  
- <br>
+  <br>
 
 <!------Start Index----->
 
