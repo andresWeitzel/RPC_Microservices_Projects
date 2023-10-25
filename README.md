@@ -27,11 +27,12 @@ Central repository for RPC and Microservices type backend projects. The followin
 
  <br>
 
-| Type | Stack |
-| ------------- | ------------- |
-| Javascript | Express, Nodejs, dotenv, cors, express-validator, nodemon, others  |
-
-
+ * Lenguages : Javascript, others
+ * Frameworks : Express, others
+ * Technologies : Nodejs, others
+ * Libraries : dotenv, cors, swagger, swagger-ui, nodemon, others.
+ * Tools : vsc, git, others
+   
  <br>
  
  <br>
