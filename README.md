@@ -23,7 +23,7 @@
 
 <br>
 
-Central repository for RPC and Microservices type backend projects. The following technologies are implemented..
+Central repository for RPC and Microservices type backend projects.
 
  <br>
 
