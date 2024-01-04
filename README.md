@@ -27,11 +27,11 @@ Central repository for RPC and Microservices type backend projects.
 
  <br>
 
- * Languages : Javascript, others
- * Frameworks : Express, others
- * Technologies : Nodejs, others
+ * Languages : Javascript, others.
+ * Frameworks : Express, others.
+ * Technologies : Nodejs, others.
  * Libraries : dotenv, cors, swagger, swagger-ui, nodemon, others.
- * Tools : vsc, git, others
+ * Tools : Vsc, Git, Postman, others.
    
  <br>
  
