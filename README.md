@@ -13,13 +13,14 @@
   </a> 
 </div>
 
- 
+
 <div align="center">
   
-## RPC & Microservices
+##  <img width="48" height="42" src="./doc/assets/gifs/grpc.gif" />  RPC & Microservices
 
 </div>  
 
+<br>
 
 <br>
 
