@@ -20,9 +20,6 @@
 
 </div>  
 
-<br>
-
-<br>
 
 Central repository for RPC and Microservices type backend projects.
 
@@ -46,9 +43,18 @@ Central repository for RPC and Microservices type backend projects.
  <summary> See </summary>
 
  <br>
- 
-* [gRPC protobuf api for the integration of IPWHOIS.IO services](#grpc-protobuf-api-for-the-integration-of-ipwhoisio-services-implemented-with-nodejs-expressjs-etc-) [ Nodejs, Express, others ]
 
+#### 🗂️ Projects
+* [gRPC protobuf API IPWHOIS.IO services](#grpc-protobuf-api-ipwhoisio-services-)
+
+  <div align="left">
+    <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/swagger.png" />
+    <img width="22" height="22" src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="22" height="24" src="doc/assets/icons/devops/png/postman.png" />
+    <img width="22" height="24" src="doc/assets/icons/devops/png/git.png" />
+  </div>
 <br>
 
 </details>
@@ -64,39 +70,39 @@ Central repository for RPC and Microservices type backend projects.
 
 <div align="center">
   
- ### gRPC protobuf api for the integration of IPWHOIS.IO services implemented with Nodejs, Expressjs, etc. [🔝](#index-)
+ ### gRPC protobuf API IPWHOIS.IO services. [🔝](#index-)
 
   
-  <a href="https://github.com/andresWeitzel/gRPC_IP_Geolocation_API_Integration_Nodejs" target="_blank">
+<a href="https://github.com/andresWeitzel/gRPC_IP_Geolocation_API_Integration_Nodejs" target="_blank">
  <img src="https://github.com/andresWeitzel/gRPC_IP_Geolocation_API_Integration_Nodejs/blob/master/doc/assets/gRPC.png" >
-  </a>
+</a>
 
-  ### [[Repository]](https://github.com/andresWeitzel/gRPC_IP_Geolocation_API_Integration_Nodejs) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurD2RjD9OiBfyKpsgwEzZzBv)
-
-  
- <div style="display: inline-block;"> 
-  <a href="https://github.com/andresWeitzel/gRPC_IP_Geolocation_API_Integration_Nodejs">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
-  </a>
-    <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurD2RjD9OiBfyKpsgwEzZzBv">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
-  </a>
- </div>
-
-   ### Technology Stack Used
-  
- </p>
-
- <div style="display: inline-block;">
-  <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
-   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/nodeJs.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />        
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" /> 
-  <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
- </div>
+<div align="right">
+  <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
+  <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+  <img width="20" height="20" src="doc/assets/icons/devops/png/swagger.png" />
+  <img width="22" height="22" src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+  <img width="22" height="24" src="doc/assets/icons/devops/png/postman.png" />
+  <img width="22" height="24" src="doc/assets/icons/devops/png/git.png" />
 </div>
+
+
+<br>
+
+ ### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/gRPC_IP_Geolocation_API_Integration_Nodejs" target="_blank">
+    <img width="60" height="60" alt="code" src="./doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurD2RjD9OiBfyKpsgwEzZzBv" target="_blank">
+    <img width="60" height="60" alt="playlist" src="./doc/assets/gifs/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  </a>
+</div>
+
+
+
+
 
    <!------END gRPC IPWHOIS.IO------>
 
